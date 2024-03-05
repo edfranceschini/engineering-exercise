@@ -2,3 +2,5 @@
 generate_data.py
 Pipfile*
 .env
+__pycache__
+.pytest_cache
